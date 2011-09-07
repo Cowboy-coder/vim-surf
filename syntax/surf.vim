@@ -26,7 +26,6 @@ syn match surfConstant "\$surf"
 syn match surfDollarSign      contained "\$"
 
 syn match surfVariable      contained "\$\@<=\h\w*"
-syn match surfVariable      contained "\(\$\h\w*\(\.\|\->\|\[.*\]\(\.\|\->\)\)\)\@<=\w*"
 
 syn match surfEscapedVariable contained "\\$\h\w*"
 
