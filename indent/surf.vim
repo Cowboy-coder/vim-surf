@@ -35,7 +35,7 @@ let b:indentTrios = [
             \ ['{bundleAsync.*}', '', '{/bundleAsync}'],
             \ ['{bundle.*}', '', '{/bundle}'],
             \ ['{use.*}', '', '{/use}'],
-            \ ['{surface}', '', '{/surface}'],
+            \ ['{surface.*}', '', '{/surface}'],
             \ ['{surfacelist.*}', '', '{/surfacelist}'],
             \ ['{empty}', '', '{/empty}'],
             \ ['{item.*}', '', '{/item}'],
